@@ -25,7 +25,7 @@ The best place to start is [`Source Code/E_BART_Final.ipynb`](Source%20Code/E_BA
 
 E-BART uses Hugging Face BART to produce a truthfulness prediction and a written explanation. Training can use the standard `Seq2SeqTrainer`. For inference, the original implementation provides a `CustomTrainer` to handle the two outputs.
 
-The model was originally trained using the [e-FEVER dataset described by Stammbach and Ash (2020)](https://dblp.org/rec/conf/tto/StammbachA20). The full training dataset and trained model weights are **not included**. The repository also does not provide a tested environment for current PyTorch and Transformers versions.
+The model was originally trained using the [e-FEVER dataset described by Stammbach and Ash (2020)](https://truthandtrustonline.com/2020-proceedings/). The full training dataset and trained model weights are **not included**. The repository also does not provide a tested environment for current PyTorch and Transformers versions.
 
 The training scripts expect records with the fields `id`, `label`, `claim`, `retrieved_evidence` and `summary`. The label is an integer, the evidence is a text passage, and the summary is the reference explanation. The input to BART takes this form:
 
