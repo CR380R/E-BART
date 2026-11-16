@@ -1,0 +1,44 @@
+{
+  "allowed_tries": 10,
+  "time_check_amount": 1,
+  "attributes": [
+    {
+      "name": "id",
+      "show": false,
+      "annotate": false,
+      "required": false
+    },
+    {
+      "name": "gt_label",
+      "show": false,
+      "annotate": false,
+      "required": false
+    },
+    {
+      "name": "claim",
+      "show": true,
+      "required": false,
+      "annotate": false
+    },
+    {
+      "name": "gt_explanation",
+      "show": false,
+      "annotate": false,
+      "required": false
+    },
+    {
+      "name": "explanation",
+      "show": false,
+      "annotate": false,
+      "required": false
+    }
+  ],
+  "annotator": false,
+  "countdown_time": false,
+  "blacklist_batches": [],
+  "whitelist_batches": [],
+  "messages": [
+    "You have already started this task without finishing it",
+    "You are allowed to perform the task only once"
+  ]
+}

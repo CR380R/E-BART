@@ -1,0 +1,71 @@
+doc_id,fever_ids,fever_compatible_ids,fever_conflicting_ids,fever_match_status,fever_label_check,doc_claim,doc_gt_label
+claim_0,137334,137334,,unique_exact_text,verified_for_labelled_candidates,Fox 2000 Pictures released the film Soul Food.,SUPPORTS
+claim_1,111897,111897,,unique_exact_text,verified_for_labelled_candidates,Telemundo is a English-language television network.,REFUTES
+claim_2,89891,89891,,unique_exact_text,verified_for_labelled_candidates,Damon Albarn's debut album was released in 2011.,REFUTES
+claim_3,181634,181634,,unique_exact_text,verified_for_labelled_candidates,There is a capital called Mogadishu.,SUPPORTS
+claim_4,219028;219030,219028;219030,,multiple_exact_text_ids,verified_for_labelled_candidates,Savages was exclusively a German film.,REFUTES
+claim_5,108281,108281,,unique_exact_text,verified_for_labelled_candidates,Andrew Kevin Walker is only Chinese.,REFUTES
+claim_6,204352;204361,204352;204361,,multiple_exact_text_ids,verified_for_labelled_candidates,The Cretaceous ended.,SUPPORTS
+claim_7,92150;105095,92150;105095,,multiple_exact_text_ids,verified_for_labelled_candidates,Nicholas Brody is a character on Homeland.,SUPPORTS
+claim_8,90809,90809,,unique_exact_text,verified_for_labelled_candidates,Sean Penn is only ever a stage actor.,REFUTES
+claim_9,204443,204443,,unique_exact_text,verified_for_labelled_candidates,Brad Wilk helped co-found Rage in 1962.,REFUTES
+claim_10,192714,192714,,unique_exact_text,verified_for_labelled_candidates,CBS is the network that aired The Millers.,SUPPORTS
+claim_11,159700;159706;159710;159714,159700;159706;159710;159714,,multiple_exact_text_ids,verified_for_labelled_candidates,Edgar Wright is a person.,SUPPORTS
+claim_12,107786,107786,,unique_exact_text,verified_for_labelled_candidates,Ann Richards was professionally involved in politics.,SUPPORTS
+claim_13,166846,166846,,unique_exact_text,verified_for_labelled_candidates,Drake Bell put out an EP.,SUPPORTS
+claim_14,140764,140764,,unique_exact_text,verified_for_labelled_candidates,Janet Leigh was incapable of writing.,REFUTES
+claim_15,145512,145512,,unique_exact_text,verified_for_labelled_candidates,"Harold Macmillan was born on February 20, 1894.",REFUTES
+claim_16,64721,64721,,unique_exact_text,verified_for_labelled_candidates,Aristotle spent time in Athens.,SUPPORTS
+claim_17,124667,124667,,unique_exact_text,verified_for_labelled_candidates,David Packouz refused to be an entrepreneur.,REFUTES
+claim_18,52175,52175,,unique_exact_text,verified_for_labelled_candidates,Magic Johnson did not play for the Lakers.,REFUTES
+claim_19,104386,104386,,unique_exact_text,verified_for_labelled_candidates,Tenacious D started in 1997.,REFUTES
+claim_20,55658,55658,,unique_exact_text,verified_for_labelled_candidates,James VI and I was a major advocate of a single parliament for Scotland and England.,SUPPORTS
+claim_21,201090,201090,,unique_exact_text,verified_for_labelled_candidates,Marcus Bentley is a broadcaster.,SUPPORTS
+claim_22,129441,129441,,unique_exact_text,verified_for_labelled_candidates,Saxony is in Ireland.,REFUTES
+claim_23,207543,207543,,unique_exact_text,verified_for_labelled_candidates,Mel B released a song on Virgin Records in 2007.,SUPPORTS
+claim_24,128123,128123,,unique_exact_text,verified_for_labelled_candidates,Mohra is a truck.,REFUTES
+claim_25,31963,31963,,unique_exact_text,verified_for_labelled_candidates,Shane Black was born in 1961.,SUPPORTS
+claim_26,41665,41665,,unique_exact_text,verified_for_labelled_candidates,"There are not rumors that Augustus' wife, Livia, poisoned him.",REFUTES
+claim_27,71959,71959,,unique_exact_text,verified_for_labelled_candidates,Jennifer Lopez made a single.,SUPPORTS
+claim_28,173496,173496,,unique_exact_text,verified_for_labelled_candidates,Sancho Panza is a character in Don Quixote.,SUPPORTS
+claim_29,66638,66638,,unique_exact_text,verified_for_labelled_candidates,The Adventures of Pluto Nash was reviewed by Ron Underwood.,REFUTES
+claim_30,26839,26839,,unique_exact_text,verified_for_labelled_candidates,Hedda Gabler's world premiere took place at the Battle of Hastings.,REFUTES
+claim_31,40351,40351,,unique_exact_text,verified_for_labelled_candidates,Brazzers is a company.,SUPPORTS
+claim_32,15307,15307,,unique_exact_text,verified_for_labelled_candidates,Tim Roth is an English actor.,SUPPORTS
+claim_33,184083;184091,184083;184091,,multiple_exact_text_ids,verified_for_labelled_candidates,Ernest Medina participated in the My Lai Massacre.,SUPPORTS
+claim_34,226877,226877,,unique_exact_text,verified_for_labelled_candidates,Jenna Jameson worked as a glamor model and a stripper.,SUPPORTS
+claim_35,227130,227130,,unique_exact_text,verified_for_labelled_candidates,New Orleans Pelicans compete in the National Football Association.,REFUTES
+claim_36,134710,134710,,unique_exact_text,verified_for_labelled_candidates,Starrcade was an annual professional wrestling event that began in 1988.,REFUTES
+claim_37,105310,105310,,unique_exact_text,verified_for_labelled_candidates,Jack Falahee is a person who acts.,SUPPORTS
+claim_38,71986,71986,,unique_exact_text,verified_for_labelled_candidates,Steve Wozniak was born after the Apple II came out.,REFUTES
+claim_39,221085,221085,,unique_exact_text,verified_for_labelled_candidates,A&E is a cable and satellite television network.,SUPPORTS
+claim_40,71853,71853,,unique_exact_text,verified_for_labelled_candidates,L.A. Reid has served as the president of a record label.,SUPPORTS
+claim_41,163980,163980,,unique_exact_text,verified_for_labelled_candidates,Veeram is something other than an Indian Tamil film.,REFUTES
+claim_42,185193,185193,,unique_exact_text,verified_for_labelled_candidates,Home for the Holidays stars an American actress.,SUPPORTS
+claim_43,202757;202783,202783,202757,multiple_exact_text_ids,mixed_native_labels,Despicable Me 2 was directed by a lake.,REFUTES
+claim_44,159944,159944,,unique_exact_text,verified_for_labelled_candidates,Christa McAuliffe taught social studies at Concord High School.,SUPPORTS
+claim_45,80205,80205,,unique_exact_text,verified_for_labelled_candidates,Reign Over Me was released in 2017.,REFUTES
+claim_46,43776,43776,,unique_exact_text,verified_for_labelled_candidates,Colin Kaepernick is a poker player.,REFUTES
+claim_47,79538,79538,,unique_exact_text,verified_for_labelled_candidates,Sheryl Lee has yet to appear in a film as of 2016.,REFUTES
+claim_48,60977,60977,,unique_exact_text,verified_for_labelled_candidates,The highest point of the Hindu Kush is Everest.,REFUTES
+claim_49,100584,100584,,unique_exact_text,verified_for_labelled_candidates,Same Old Love is disassociated from Selena Gomez.,REFUTES
+claim_51,215500,215500,,unique_exact_text,verified_for_labelled_candidates,Weekly Idol is hosted by Yoo Jae Suk.,REFUTES
+claim_52,26300,26300,,unique_exact_text,verified_for_labelled_candidates,Heavy Metal music was developed in the early 1970's.,SUPPORTS
+claim_53,145446,145446,,unique_exact_text,verified_for_labelled_candidates,Topman has clothing outlets in six Irish cities and towns.,SUPPORTS
+claim_54,10328,10328,,unique_exact_text,verified_for_labelled_candidates,"Sidse Babett Knudsen graduated on November 22nd, 1968.",REFUTES
+claim_55,194904,194904,,unique_exact_text,verified_for_labelled_candidates,Stripes had Conrad Dunn featured in it.,SUPPORTS
+claim_56,186590,186590,,unique_exact_text,verified_for_labelled_candidates,In 1971 Asylum Records the American record label was founded by David Geffen and his partner Elliot Roberts.,SUPPORTS
+claim_57,60685,60685,,unique_exact_text,verified_for_labelled_candidates,Trollhunters was produced by an animation company.,SUPPORTS
+claim_58,38125,38125,,unique_exact_text,verified_for_labelled_candidates,The Armenian Genocide was the killing of Armenians who were mostly Ottoman natives.,SUPPORTS
+claim_61,108950;115181,108950;115181,,multiple_exact_text_ids,verified_for_labelled_candidates,Alexandra Daddario is Canadian.,REFUTES
+claim_62,121189,121189,,unique_exact_text,verified_for_labelled_candidates,The Others (2001 film) lost Best Film.,REFUTES
+claim_63,166848,166848,,unique_exact_text,verified_for_labelled_candidates,Drake Bell put out an extended play in 2011.,SUPPORTS
+claim_65,141072,141072,,unique_exact_text,verified_for_labelled_candidates,Telemundo is owned by ESPN.,REFUTES
+claim_66,212194,212194,,unique_exact_text,verified_for_labelled_candidates,Miracle at St. Anna only tells the story of four cats.,REFUTES
+claim_68,217212,217212,,unique_exact_text,verified_for_labelled_candidates,A monk only avoids practicing religious asceticism.,REFUTES
+claim_71,24684,24684,,unique_exact_text,verified_for_labelled_candidates,Arizona is a state in the United States.,SUPPORTS
+claim_72,44327,44327,,unique_exact_text,verified_for_labelled_candidates,Emma Watson was born.,SUPPORTS
+claim_73,179042,179042,,unique_exact_text,verified_for_labelled_candidates,Congressional Space Medal of Honor is the highest award given only to astronauts by NASA.,SUPPORTS
+claim_74,31418,31418,,unique_exact_text,verified_for_labelled_candidates,The Saw franchise grossed under $873 million.,REFUTES
+claim_79,10278,10278,,unique_exact_text,verified_for_labelled_candidates,Hush (2016 film) was produced by children.,REFUTES
+claim_81,67212,67212,,unique_exact_text,verified_for_labelled_candidates,John Dolmayan is Armenian-American and Indian.,REFUTES

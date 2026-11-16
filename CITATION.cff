@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "Please cite the associated original study."
+title: "A Neural Model to Jointly Predict and Explain Truthfulness of Statements"
+type: dataset
+authors:
+  - family-names: Brand
+    given-names: Erik
+  - family-names: Roitero
+    given-names: Kevin
+  - family-names: Soprano
+    given-names: Michael
+  - family-names: Rahimi
+    given-names: Afshin
+  - family-names: Demartini
+    given-names: Gianluca
+references:
+  - type: article
+    title: "A Neural Model to Jointly Predict and Explain Truthfulness of Statements"
+    year: 2023
+    doi: 10.1145/3546917

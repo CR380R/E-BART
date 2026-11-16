@@ -1,0 +1,47 @@
+{
+  "modality": "pointwise",
+  "allowed_tries": 10,
+  "time_check_amount": 1,
+  "attributes": [
+    {
+      "name": "id",
+      "show": false,
+      "annotate": false,
+      "required": false
+    },
+    {
+      "name": "gt_label",
+      "show": false,
+      "annotate": false,
+      "required": false
+    },
+    {
+      "name": "claim",
+      "show": true,
+      "required": false,
+      "annotate": false
+    },
+    {
+      "name": "gt_explanation",
+      "name_pretty": "First Explanation",
+      "show": true,
+      "annotate": false,
+      "required": false
+    },
+    {
+      "name": "explanation",
+      "name_pretty": "Second Explanation",
+      "show": true,
+      "required": false,
+      "annotate": false
+    }
+  ],
+  "annotator": false,
+  "countdown_time": false,
+  "blacklist_batches": [],
+  "whitelist_batches": [],
+  "messages": [
+    "You have already started this task without finishing it",
+    "You are allowed to perform the task only once"
+  ]
+}
