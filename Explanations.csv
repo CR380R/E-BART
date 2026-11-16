@@ -1,0 +1,71 @@
+doc_id,reference_explanation,ebart_explanation,explanations_identical
+claim_0,Fox 2000 Pictures released the film Soul Food.,Fox 2000 Pictures released the film Soul Food.,true
+claim_1,Telemundo is a Spanish-language television network.,Teemundo is a Spanish-language television network.,false
+claim_2,Damon Albarn's debut album Everyday Robots was released in 2014.,Damon Albarn's debut album was released in 2014.,false
+claim_3,Mogadishu is the capital of Somalia.,Mogadishu is the capital of Somalia.,true
+claim_4,Savages was not exclusively a German film.,Savages was not exclusively a German film.,true
+claim_5,Andrew Kevin Walker is a Chinese-American screenwriter.,"Andrew Kevin Walker is not only Chinese, but also American and Canadian.",false
+claim_6,The Cretaceous ended with a mass extinction.,The Cretaceous ended with a large mass extinction.,false
+claim_7,"Nicholas Brody is a fictional character on the American television series Homeland on Showtime, created by Alex Gansa and Howard Gordon.",Nicholas Brody is a fictional character on the American television series Homeland.,false
+claim_8,"Sean Penn has appeared in films, television series and plays.","Sean Penn is an actor, filmmaker and political activist.",false
+claim_9,Brad Wilk helped co-found Rage in 1991.,Brad Wilk helped co-found Rage in 1991.,true
+claim_10,"CBS is the network that aired The Millers, however it does not say whether it aired on CBS.",CBS is the network that aired The Millers.,false
+claim_11,Edgar Wright is a person.,Edgar Wright is a person.,true
+claim_12,"Ann Richards was the second female governor of Texas, and was frequently noted in the media for her outspoken feminism and her one-liners. She served as the 45th Governor of Texas from 1991 to 1995 and was defeated for re","Ann Richards was a politician, however she was not only involved in politics.",false
+claim_13,Drake Bell put out an EP called A Reminder.,Drake Bell put out an EP called A Reminder independently.,false
+claim_14,Janet Leigh was capable of writing.,"Janet Leigh wrote four books between 1984 and 2002, including two novels.",false
+claim_15,"Harold Macmillan was born on February 10, 1894.","Harold Macmillan was born on February 10, 1894.",true
+claim_16,"Aristotle was born in Stagira, Chalkidice, on the northern periphery of Classical Greece. He spent time in Athens, tutoring Alexander the Great.","Aristotle spent time in Athens, however it does not say whether he spent time at the Academy in Athens.",false
+claim_17,David Packouz is an entrepreneur.,David Packouz is an entrepreneur.,true
+claim_18,Magic Johnson played for the Lakers for 13 seasons.,Magic Johnson played for the Lakers for 13 seasons.,true
+claim_19,Tenacious D started in 1994.,"Tenacious D started in 1997, however it does not say whether it started in the year 1997.",false
+claim_20,James VI and I was a major advocate of a single parliament for England and Scotland.,James VI and I was a major advocate of a single parliament for Scotland and England.,false
+claim_21,Bentley is a broadcaster for Channel 4 and Channel 5.,"Marcus Bentley is a British actor, broadcaster and voice-over artist. He is most famous for narrating the United Kingdom 's version of the Dutch reality television programme Big Brother since its inception in 2000.",false
+claim_22,Saxony is in Germany.,The Free State of Saxony is not in Ireland.,false
+claim_23,Mel B released a song on Virgin Records in 2007.,"Mel B released a song on Virgin Records in 2007, however it does not say whether it was released in 2007.",false
+claim_24,"Mohra is a 1994 Indian action thriller film directed by Rajiv Rai starring Akshay Kumar, Sunil Shetty, Raveena Tandon and Naseeruddin Shah in the lead roles with Paresh Rawal","Mohra is a 1994 Indian action thriller film directed by Rajiv Rai starring Akshay Kumar, Sunil Shetty, Raveena Tandon and Naseeruddin Shah in the lead roles with Paresh Rawal",true
+claim_25,"Shane Black was born in 1961, however it does not say whether he was born on December 16, 1961.",Shane Black was born in 1961.,false
+claim_26,"Augustus died from natural causes, however there are rumors that his wife, Livia, poisoned him.","There are rumors that Augustus' wife, Livia, poisoned him.",false
+claim_27,"Jennifer Lopez has made a single called ""If You Had My Love"" in 1999.",Jennifer Lopez has made a single.,false
+claim_28,Sancho Panza is a fictional character in the novel Don Quixote written by Miguel de Cervantes Saavedra in 1605.,Sancho Panza is a fictional character in the novel Don Quixote written by Spanish author Don Miguel de Cervantes Saavedra in 1605.,false
+claim_29,The relevant information about the claim is lacking in the context.,"The Adventures of Pluto Nash was reviewed by Ron Underwood, however it does not say whether he liked it or not.",false
+claim_30,Hedda Gabler's world premiere took place at the Residenztheater in Munich.,"H was present at the world premiere, which took place on 31 January 1891 at the Residenztheater in Munich.",false
+claim_31,"Brazzers is a pornographic production company based in Montreal, Canada.","Brazzers is a pornographic production company based in Montreal, Canada.",true
+claim_32,"Tim Roth is an English actor, however it does not say whether he is English.",Tim Roth is an English actor and director.,false
+claim_33,"Ernest Medina was the commanding officer of Company C, 1st Battalion, 20th Infantry of the 11th Brigade, Americal Division, the unit responsible for the My Lai Massacre of 16 March 1968.",Ernest Medina was court martialed in 1971 for his role in the My Lai Massacre.,false
+claim_34,"Jenna Jameson worked as a glamor model, a stripper and a striptease artist.",Jenna Jameson worked as a glamor model and a stripper.,false
+claim_35,The New Orleans Pelicans compete in the National Basketball Association.,"The New Orleans Pelicans compete in the National Basketball Association, the Southwest Division and the National Football Association.",false
+claim_36,Starrcade was an annual professional wrestling event that began in 1983.,Starrcade was an annual professional wrestling event that began in 1983.,true
+claim_37,Jack Falahee is an actor.,Jack Falahee is an actor.,true
+claim_38,"Steve Wozniak was born in 1950, before the Apple II came out.","SteveSteve Wozniak was born in 1950, before the Apple II came out.",false
+claim_39,"A&E is a cable and satellite television network, however it does not say whether it is a television channel.",A&E is a cable and satellite television channel.,false
+claim_40,"L.A. Reid has served as the president of Arista Records, Epic Records and the Island Def Jam Music Group.","L.A. Reid has served as the president of Epic Records, a division of Sony Music Entertainment, the president and CEO of Arista Records and the chairman of the Island Def Jam Music Group.",false
+claim_41,Veeram is a 2014 Indian Tamil film directed by Siva. Veeram is a 2016 Indian epic historical drama film written and directed by Jayaraj.,Veeram is an Indian Tamil film.,false
+claim_42,"Home for the Holidays stars Holly Hunter, Robert Downey Jr., Anne Bancroft, Charles Durning, Dylan McDermott, Geraldine Chaplin, Steve Guttenberg, Cynthia Stevenson, Claire Danes","Home for the Holidays stars Holly Hunter, an American actress.",false
+claim_43,Despicable Me 2 was directed by Pierre Coffin and Chris Renaud.,Despicable Me 2 was directed by Pierre Coffin and Chris Renaud.,true
+claim_44,Christa McAuliffe taught social studies at Concord High School.,Christa McAuliffe taught social studies at Concord High School.,true
+claim_45,Reign Over Me was released in 2007.,Reign Over Me was released in 2007.,true
+claim_46,"Colin Kaepernick is a football player, not a poker player.","Colin Kaepernick is a quarterback, not a poker player.",false
+claim_47,Sheryl Lee has appeared in a film as of 2016.,Sheryl Lee has appeared in a film as of 2016.,true
+claim_48,"The highest point of the Hindu Kush is Tirich Mir or Terichmir at 7708 m in the Chitral District of Khyber Pakhtunkhwa, Pakistan.","The highest point of the Hindu Kush is Tirich Mir, not Everest.",false
+claim_49,Selena Gomez is the singer of the song Same Old Love.,SameOld Love is a song by Selena Gomez from her second studio album Revival.,false
+claim_51,Weekly Idol is hosted by Jeong Hyeong-don and Defconn.,Weekly Idol is hosted by Jeong Hyeong-don and rapper Defconn.,false
+claim_52,Heavy metal music was developed in the late 1960s and early 1970s.,Heavy Metal music was developed in the late 1960s and early 1970s.,false
+claim_53,Topman has clothing outlets in six Irish cities and towns.,Topman has clothing outlets in six Irish cities and towns.,true
+claim_54,"Sidse Babett Knudsen graduated on November 22nd, 1968.","Sidse Babett Knudsen was born on November 22nd, 1968.",false
+claim_55,"Stripes had Conrad Dunn featured in it, however it does not say whether he was featured in it.",Stripes had Conrad Dunn featured in it.,false
+claim_56,"In 1971, Asylum Records, the American record label was founded by David Geffen and his partner Elliot Roberts.","In 1971, Asylum Records was founded by David Geffen and his partner Elliot Roberts.",false
+claim_57,"Trollhunters was produced by DreamWorks Animation, which is an animation company.",Trollhunters was produced by DreamWorks Animation and Double Dare You.,false
+claim_58,"The Armenian Genocide was the killing of Ottoman Armenians, not Ottoman natives.",The Armenian Genocide was the killing of Armenians who were mostly Ottoman natives.,false
+claim_61,"Alexandra Daddario was born in New York City, New York, United States.",Alexandra Daddario is an American actress.,false
+claim_62,"The Others (2001 film) won Best Film at the Goyas, however it did not win Best Film at the BAFTAs.","The Others (2001 film) won eight Goya Awards, including awards for Best Film and Best Director. It was also nominated for six Saturn Awards including Best Director and Best Writing for Amenábar and Best Performance by a Younger",false
+claim_63,"Drake Bell put out an extended play in 2011, however it does not say whether it was called A Reminder.",Drake Bell put out an extended play in 2011 called A Reminder.,false
+claim_65,"Telemundo is owned by NBCUniversal, not by ESPN.","Telemundo is owned by Comcast, not by ESPN.",false
+claim_66,"Miracle at St. Anna tells the story of four Buffalo Soldiers of the 92nd Infantry Division who seek refuge in a small Tuscan village, where they form a bond with the residents.","Miracle at St. Anna does not only tell the story of four cats, but also of four Buffalo Soldiers of the 92nd Infantry Division.",false
+claim_68,"A monk is a person who practices religious asceticism by monastic living, either alone or with any number of other monks.",A monk practices religious asceticism.,false
+claim_71,Arizona is a U.S. state.,Arizona is a state in the United States.,false
+claim_72,"Emma Watson was born in Paris, France, but was brought up in Oxfordshire, England.",Emma Watson was born in Paris and brought up in Oxfordshire.,false
+claim_73,"The Congressional Space Medal of Honor is the highest award given by NASA, however it is not the highest award given by NASA.",The Congressional Space Medal of Honor is the highest award given to astronauts by NASA.,false
+claim_74,The Saw franchise grossed over $ 873 million at the box office worldwide.,The Saw franchise grossed over $ 873 million.,false
+claim_79,"Hush (2016 film) was produced by Intrepid Pictures, Blumhouse Productions and Macy.","Hush (2016 film) was produced by Trevor Macy, through Intrepid Pictures, and Jason Blum through his Blumhouse Productions banner.",false
+claim_81,John Dolmayan is Armenian-American and Lebanese.,John Dolmayan is Armenian-American and American.,false

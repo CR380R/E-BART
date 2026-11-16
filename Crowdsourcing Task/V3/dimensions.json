@@ -1,0 +1,34 @@
+[
+  {
+    "name": "truthfulness",
+    "name_pretty": "Truthfulness",
+    "description": "Consider the following claim, then please assess wether the claim is true or false",
+    "gold": false,
+    "justification": {
+      "text": "Write a couple of sentences to justify your assessment",
+      "min_words": 5
+    },
+    "url": false,
+    "scale": {
+      "type": "categorical",
+      "mapping": [
+        {
+          "label": "False",
+          "description": "This claim is false",
+          "value": "0"
+        },
+        {
+          "label": "True",
+          "description": "This claim is true",
+          "value": "1"
+        }
+      ]
+    },
+    "style": {
+      "position": "middle",
+      "orientation": "vertical",
+      "separator": false,
+      "type": "list"
+    }
+  }
+]
